@@ -1,0 +1,24 @@
+# Vickrey-Auction
+A demo of a vickrey auction fulfilled with smart contract in Solidity.
+## Run the demo
+### Required
+- node.js & npm
+- Truffle
+> npm install truffle -g
+- web3
+> npm install web3@^0.20.0 (version could be updated)
+- TestRPC
+> npm install -g ethereumjs-testrpc
+### Install
+Download the file.
+### Run
+1. Setup test net (In Powershell/Terminal)
+> testrpc
+2. Compile & Test (In a new window of Powershell/Terminal)
+(In the folder "Vickrey-Auction")
+> truffle compile
+
+(There will be some warnings.)
+> truffle test
+
+(5 tests defined in test/test.js should all pass.)
