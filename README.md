@@ -22,3 +22,6 @@ Download the file.
 > truffle test
 
 (5 tests defined in test/test.js should all pass.)
+## Reference
+[Truffle Doc](https://truffleframework.com/docs/truffle/overview)
+[Solidity Doc](https://solidity.readthedocs.io/en/v0.4.24/index.html)
