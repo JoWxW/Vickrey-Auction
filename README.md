@@ -1,5 +1,5 @@
 # Vickrey-Auction
-A demo of a vickrey auction fulfilled with smart contract in Solidity.
+A demo of a [vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) fulfilled with smart contract in Solidity.
 ## Run the demo
 ### Required
 - node.js & npm
